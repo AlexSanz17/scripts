@@ -1,0 +1,36 @@
+USE [siged]
+GO
+
+/****** Object:  Table [dbo].[usuarioxrol]    Script Date: 19/10/2021 22:38:52 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[usuarioxrol](
+	[idrol] [int] NOT NULL,
+	[idusuario] [int] NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[idrol] ASC,
+	[idusuario] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[usuarioxrol]  WITH CHECK ADD  CONSTRAINT [FK3123F28544F9F51B] FOREIGN KEY([idrol])
+REFERENCES [dbo].[rol] ([idrol])
+GO
+
+ALTER TABLE [dbo].[usuarioxrol] CHECK CONSTRAINT [FK3123F28544F9F51B]
+GO
+
+ALTER TABLE [dbo].[usuarioxrol]  WITH CHECK ADD  CONSTRAINT [FK3123F285EAD96159] FOREIGN KEY([idusuario])
+REFERENCES [dbo].[usuario] ([idusuario])
+GO
+
+ALTER TABLE [dbo].[usuarioxrol] CHECK CONSTRAINT [FK3123F285EAD96159]
+GO
+
+

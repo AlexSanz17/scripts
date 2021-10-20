@@ -1,0 +1,33 @@
+USE [siged]
+GO
+
+/****** Object:  Table [dbo].[reporteuno]    Script Date: 19/10/2021 19:30:20 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[reporteuno](
+	[FECHACREACION] [datetime] NOT NULL,
+	[EASUNTO] [varchar](255) NULL,
+	[ECLIENTE] [varchar](255) NULL,
+	[DESTINATARIO] [varchar](255) NULL,
+	[EESTADO] [varchar](255) NULL,
+	[ENROEXPEDIENTE] [varchar](255) NULL,
+	[EFECHAEXPEDIENTE] [datetime] NULL,
+	[EGRUPOPROCESO] [varchar](255) NULL,
+	[ENOMBREM] [varchar](255) NULL,
+	[ENOMBREN] [varchar](255) NULL,
+	[ENOMBREP] [varchar](255) NULL,
+	[EPROCESO] [varchar](255) NULL,
+	[PROPIETARIO] [varchar](255) NULL,
+	[REMITENTE] [varchar](255) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[FECHACREACION] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
