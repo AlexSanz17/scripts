@@ -1,0 +1,25 @@
+USE [siged]
+GO
+
+/****** Object:  Table [dbo].[USUARIOXUNIDADXFUNCION_LOG]    Script Date: 19/10/2021 22:40:16 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[USUARIOXUNIDADXFUNCION_LOG](
+	[IDLOG] [int] NULL,
+	[IDUSUARIO] [int] NULL,
+	[IDUNIDAD] [int] NULL,
+	[IDFUNCION] [int] NULL,
+	[IDUSUARIOCARGO] [int] NULL,
+	[ESTADO] [varchar](2) NULL,
+	[USUARIOFINAL] [varchar](2) NULL,
+	[IDROL] [int] NULL,
+	[IDCARGOS] [int] NULL,
+	[TRANSACCION] [varchar](30) NULL
+) ON [PRIMARY]
+GO
+
+

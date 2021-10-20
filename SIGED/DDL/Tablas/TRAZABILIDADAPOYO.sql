@@ -1,0 +1,82 @@
+USE [siged]
+GO
+
+/****** Object:  Table [dbo].[TRAZABILIDADAPOYO]    Script Date: 19/10/2021 22:30:27 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[TRAZABILIDADAPOYO](
+	[idtrazabilidadapoyo] [int] IDENTITY(1,1) NOT NULL,
+	[asunto] [varchar](255) NULL,
+	[cargodestinatario] [int] NULL,
+	[cargoremitente] [int] NULL,
+	[documento] [int] NULL,
+	[fechacreacion] [datetime] NOT NULL,
+	[fechalimiteatencion] [datetime] NULL,
+	[idproveido] [int] NULL,
+	[indalerta] [varchar](255) NULL,
+	[nombrepc] [varchar](255) NULL,
+	[plazo] [int] NULL,
+	[prioridad] [int] NULL,
+	[texto] [varchar](255) NULL,
+	[unidaddestinatario] [int] NULL,
+	[unidadremitente] [int] NULL,
+	[usuariocreacion] [int] NULL,
+	[accion] [int] NOT NULL,
+	[destinatario] [int] NOT NULL,
+	[estado] [int] NOT NULL,
+	[remitente] [int] NOT NULL,
+	[idorigen] [int] NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[idtrazabilidadapoyo] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[TRAZABILIDADAPOYO]  WITH CHECK ADD  CONSTRAINT [FK3CC64EFD3CBC0577] FOREIGN KEY([destinatario])
+REFERENCES [dbo].[usuario] ([idusuario])
+GO
+
+ALTER TABLE [dbo].[TRAZABILIDADAPOYO] CHECK CONSTRAINT [FK3CC64EFD3CBC0577]
+GO
+
+ALTER TABLE [dbo].[TRAZABILIDADAPOYO]  WITH CHECK ADD  CONSTRAINT [FK3CC64EFD5B2BAC56] FOREIGN KEY([accion])
+REFERENCES [dbo].[accion] ([idaccion])
+GO
+
+ALTER TABLE [dbo].[TRAZABILIDADAPOYO] CHECK CONSTRAINT [FK3CC64EFD5B2BAC56]
+GO
+
+ALTER TABLE [dbo].[TRAZABILIDADAPOYO]  WITH CHECK ADD  CONSTRAINT [FK3CC64EFD6AA49754] FOREIGN KEY([estado])
+REFERENCES [dbo].[estado] ([idestado])
+GO
+
+ALTER TABLE [dbo].[TRAZABILIDADAPOYO] CHECK CONSTRAINT [FK3CC64EFD6AA49754]
+GO
+
+ALTER TABLE [dbo].[TRAZABILIDADAPOYO]  WITH CHECK ADD  CONSTRAINT [FK3CC64EFDD0D3D145] FOREIGN KEY([remitente])
+REFERENCES [dbo].[usuario] ([idusuario])
+GO
+
+ALTER TABLE [dbo].[TRAZABILIDADAPOYO] CHECK CONSTRAINT [FK3CC64EFDD0D3D145]
+GO
+
+ALTER TABLE [dbo].[TRAZABILIDADAPOYO]  WITH CHECK ADD  CONSTRAINT [FK3CC64EFDE58472D3] FOREIGN KEY([idproveido])
+REFERENCES [dbo].[proveido] ([idproveido])
+GO
+
+ALTER TABLE [dbo].[TRAZABILIDADAPOYO] CHECK CONSTRAINT [FK3CC64EFDE58472D3]
+GO
+
+ALTER TABLE [dbo].[TRAZABILIDADAPOYO]  WITH CHECK ADD  CONSTRAINT [FK3CC64EFDF3722B18] FOREIGN KEY([idorigen])
+REFERENCES [dbo].[trazabilidaddocumento] ([idtrazabilidaddocumento])
+GO
+
+ALTER TABLE [dbo].[TRAZABILIDADAPOYO] CHECK CONSTRAINT [FK3CC64EFDF3722B18]
+GO
+
+
