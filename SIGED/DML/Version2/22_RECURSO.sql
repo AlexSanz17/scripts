@@ -1,4 +1,9 @@
-SELECT * FROM RECURSO
+--SET IDENTITY_INSERT RECURSO ON;
+--select * from RECURSO;
+
+--DELETE FROM RECURSO;
+
+
 Insert into RECURSO
    (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ACTIONURL, 
     ESTADO)
@@ -411,6 +416,8 @@ Insert into RECURSO
    (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ESTADO)
  Values
    (186, 1, 'Mantenimiento - Grid Provincia', 'MantGrdProv', 'A');
+
+--
 Insert into RECURSO
    (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ESTADO)
  Values
@@ -443,22 +450,23 @@ Insert into RECURSO
    (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ESTADO)
  Values
    (201, 1, 'Mesa de Partes - Imprimir Cargo', 'MPImpCargo', 'A');
+
 Insert into RECURSO
    (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ACTIONURL, 
     ESTADO)
  Values
    (121, 10, 'Rev PR y RR ASL - SRGFE - Aprobar', 'aprobar_rev_prrr_asl_srgfe', 'doSancionador_Rev_IL_PRR_ASL_RGFE.action', 
     'A');
+
+--
+
 Insert into RECURSO
    (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ACTIONURL, 
     ESTADO)
  Values
    (122, 10, 'Rev PR y RR ASL - SRGFE - Rechazar', 'rechazar_rev_prrr_asl_srgfe', 'doSancionador_Rev_IL_PRR_ASL_RGFE.action', 
     'A');
-Insert into RECURSO
-   (IDRECURSO, IDMODULO, NOMBRE, ESTADO)
- Values
-   (163, 13, 'recurso prueba', 'A');
+
 Insert into RECURSO
    (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ESTADO)
  Values
@@ -585,6 +593,9 @@ Insert into RECURSO
  Values
    (139, 11, 'Recepcion Expediente Proy Res - SA - SRGG - Registrar', 'registrar_rec_exp_proy_sa_srgg', 'doSancionador_Recepcion_Expediente_Proyecto_Resolucion_SRGG.action', 
     'A');
+
+--
+
 Insert into RECURSO
    (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ACTIONURL, 
     ESTADO)
@@ -897,6 +908,9 @@ Insert into RECURSO
  Values
    (45, 7, 'Recepcionar Doc Descargo SALFE - GFE - Registrar', 'registrar_ddesc_salfe', 'doDocDescargoSALFE.action', 
     'A');
+
+--
+
 Insert into RECURSO
    (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ESTADO)
  Values
@@ -925,6 +939,9 @@ Insert into RECURSO
  Values
    (47, 7, 'Revision IT Desc AL - GFE - Aprobar', 'aprobar_ritd_al', 'doSancionador_Revision_ITDESC_AL.action', 
     'A');
+
+--
+
 Insert into RECURSO
    (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ACTIONURL, 
     ESTADO)
@@ -949,6 +966,9 @@ Insert into RECURSO
  Values
    (51, 7, 'Rev ITDes ASL - GFE - Rechazar', 'rechazar_rev_r_asl', 'doSancionador_Rev_ITDes_ASL.action', 
     'A');
+
+--
+
 Insert into RECURSO
    (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ACTIONURL, 
     ESTADO)
@@ -991,6 +1011,9 @@ Insert into RECURSO
  Values
    (58, 7, 'Registrar Fecha Recepcion Fisica SGFE', 'fecha_rit_sfge', 'goRegFecha.action', 
     'A');
+
+--
+
 Insert into RECURSO
    (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ACTIONURL, 
     ESTADO)
@@ -1013,12 +1036,7 @@ Insert into RECURSO
  Values
    (208, 5, 'Botòn Modificar Expediente', 'modExpediente', 'Botòn Modificar Expediente', 
     'A');
-Insert into RECURSO
-   (IDRECURSO, IDMODULO, NOMBRE, CODIGO, DESCRIPCION, 
-    ESTADO)
- Values
-   (209, 0, 'Botón Hoja de Ruta', 'HojaRuta', 'HojaRuta', 
-    'A');
+
 Insert into RECURSO
    (IDRECURSO, IDMODULO, NOMBRE, CODIGO, DESCRIPCION, 
     ESTADO)
@@ -1122,8 +1140,49 @@ Insert into RECURSO
 Insert into RECURSO
    (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ESTADO)
  Values
+   (240, 5, 'Usuario Final - Menu Documentos Firmados Virtuales', 'UsuFinMnuFirRecVirtual', 'A');
+Insert into RECURSO
+   (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ESTADO)
+ Values
+   (241, 5, 'Usuario Final - Menu Documentos Firmados Mesa Parte Virtual', 'UsuFinMnuFirMesParVirtual', 'A');
+Insert into RECURSO
+   (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ESTADO)
+ Values
+   (242, 5, 'Usuario Final - Menu Documentos Despacho Mesa Parte Virtual', 'UsuFinMnuDesMesParVirtual', 'A');
+Insert into RECURSO
+   (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ESTADO)
+ Values
    (235, 5, 'Usuario Final - Menu Mis Legajos', 'UsuFinMnuMisLeg', 'A');
 Insert into RECURSO
    (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ESTADO)
  Values
    (236, 5, 'Usuario Final - Menu Legajo Compartido', 'UsuFinMnuComLeg', 'A');
+Insert into RECURSO
+   (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ESTADO)
+ Values
+   (239, 5, 'Usuario Final - Menu Documentos Mesa Parte Virtual', 'UsuFinMnuMesParVirtual', 'A');
+Insert into RECURSO
+   (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ESTADO)
+ Values
+   (243, 5, 'Usuario Final - Menu Documentos Despacho Unificado', 'UsuFinMnuDesUnificado', 'A');
+Insert into RECURSO
+   (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ESTADO)
+ Values
+   (244, 5, 'Usuario Final - Menu Documentos Despacho Fisico - Correo', 'UsuFinMnuDesFisicoCorreo', 'A');
+Insert into RECURSO
+   (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ESTADO)
+ Values
+   (245, 5, 'Usuario Final - Menu Documentos Despacho Oservados', 'UsuFinMnuDesUnfObs', 'A');
+Insert into RECURSO
+   (IDRECURSO, IDMODULO, NOMBRE, CODIGO, ESTADO)
+ Values
+   (246, 5, 'Usuario Final - Menu Documentos Despacho Unificado Por Cerrar', 'UsuFinMnuDesUnfPorCerrar', 'A');
+
+/*
+Insert into RECURSO
+   (IDRECURSO, IDMODULO, NOMBRE, CODIGO, DESCRIPCION, 
+    ESTADO)
+ Values
+   (209, 0, 'Botón Hoja de Ruta', 'HojaRuta', 'HojaRuta', 
+    'A');
+*/

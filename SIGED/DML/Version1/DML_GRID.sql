@@ -1,0 +1,54 @@
+update GRID set rol = 6;
+
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values (1, 'Documentos Recibidos','Documentos Recibidos', '0', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values (2, 'Documentos Pendientes','Documentos Pendientes', '1', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values (3, 'Documentos Enviados','Documentos Enviados', '2', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values (4, 'Mensajeria','Mensajeria', '3', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(5, 'Notificaciones','Notificaciones', '4', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(6, 'Procesos','Procesos', '5', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(7, 'Expedientes','Expedientes', '6', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(8, 'Documento Recibido','Documento Recibido', '7', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(10, 'Carpeta Búsqueda','Carpeta Búsqueda', '8', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(9, 'Informativos','Informativos', '9', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(11, 'Reporte Resumen','Reporte Resumen', '10', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(12, 'Reporte Detallado','Reporte Detallado', '11', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(13, 'Detalles Reporte','Detalles Reporte', '12', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(14, 'QAS Digitalizados','QAS Digitalizados', '14', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(15, 'Dig Documentos Ingresados','Dig Documentos Ingresados', '15', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(16, 'Mensajeria Recibidos','Mensajeria Recibidos', '16', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(17, 'Mensajeria Cerrados','Mensajeria Cerrados', '17', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(18, 'Expedientes Archivados','Expedientes Archivados', '18', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(19, 'Carpeta de Búsqueda','Carpeta de Búsqueda', '19', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(22, 'Documentos en Seguimiento','Documentos en Seguimiento', '22', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(23, 'Mis Expedientes','Mis Expedientes', '23', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(25, 'Documentos Anulados','Documentos Anulados', '25', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(26, 'Documentos Por Firmar','Documentos Por Firmar', '26', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(24, 'Documentos Pendientes', '24', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(27, 'Documentos Pendientes','Recepcion Virtual', '27', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(28, 'Despacho Virtual','Despacho Virtual', '28', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(30, 'Legajo','Legajo', '30', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(31, 'Legajo Compartido','Legajo Compartido', '31', 5);
+Insert into GRID(IDGRID, DESCRIPCION, NOMBRE, CODIGO, ROL) Values(32, 'Observados','Observados', '32', 5);  
+
+/*
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(33, 'Documentos Recibidos', '0', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(34, 'Documentos Pendientes', '1', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(35, 'Documentos Enviados', '2', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(36, 'Documentos Pendientes', '24', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(37, 'Notificaciones', '4', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(38, 'Procesos', '5', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(39, 'Expedientes', '6', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(40, 'Informativos', '9', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(41, 'Expedientes Archivados', '18', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(42, 'Carpeta de Búsqueda', '19', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(43, 'Documentos en Seguimiento', '22', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(44, 'Mis Expedientes', '23', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(45, 'Documentos Anulados', '25', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(46, 'Documentos Por Firmar', '26', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(47, 'Legajo', '30', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(48, 'Legajo Compartido', '31', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(49, 'Observados', '32', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(50, 'Recepcion Virtual', '27', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(51, 'Despacho Virtual', '28', 6);
+Insert into GRID(IDGRID, NOMBRE, CODIGO, ROL) Values(52, 'QAS Digitalizados', '14', 6);
+*/

@@ -1,4 +1,6 @@
-SELECT * FROM RECURSOXPERFIL
+--select * from RECURSOXPERFIL;
+
+--DELETE FROM RECURSOXPERFIL;
 
 Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
@@ -24,8 +26,6 @@ Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
    (6, 1);
-
-
 Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
@@ -150,10 +150,7 @@ Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
    (208, 2);
-Insert into RECURSOXPERFIL
-   (IDRECURSO, IDPERFIL)
- Values
-   (209, 2);
+
 Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
@@ -298,10 +295,7 @@ Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
    (208, 4);
-Insert into RECURSOXPERFIL
-   (IDRECURSO, IDPERFIL)
- Values
-   (209, 4);
+
 Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
@@ -578,10 +572,7 @@ Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
    (208, 3);
-Insert into RECURSOXPERFIL
-   (IDRECURSO, IDPERFIL)
- Values
-   (209, 3);
+
 Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
@@ -758,10 +749,7 @@ Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
    (208, 5);
-Insert into RECURSOXPERFIL
-   (IDRECURSO, IDPERFIL)
- Values
-   (209, 5);
+
 Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
@@ -906,10 +894,7 @@ Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
    (208, 6);
-Insert into RECURSOXPERFIL
-   (IDRECURSO, IDPERFIL)
- Values
-   (209, 6);
+
 Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
@@ -950,6 +935,10 @@ Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
    (230, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (242, 6);
 Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
@@ -1054,10 +1043,7 @@ Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
    (208, 7);
-Insert into RECURSOXPERFIL
-   (IDRECURSO, IDPERFIL)
- Values
-   (209, 7);
+
 Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
@@ -1206,10 +1192,7 @@ Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
    (208, 8);
-Insert into RECURSOXPERFIL
-   (IDRECURSO, IDPERFIL)
- Values
-   (209, 8);
+
 Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
@@ -1254,6 +1237,18 @@ Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
    (231, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (232, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (233, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (238, 3);
 Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
@@ -1306,4 +1301,55 @@ Insert into RECURSOXPERFIL
    (IDRECURSO, IDPERFIL)
  Values
    (236, 8);
-COMMIT;
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (239, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (243, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (244, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (245, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (246, 6);
+
+
+/*
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (209, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (209, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (209, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (209, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (209, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (209, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (209, 8);
+*/

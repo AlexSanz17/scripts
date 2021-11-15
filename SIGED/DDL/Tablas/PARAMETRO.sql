@@ -13,6 +13,7 @@ CREATE TABLE [dbo].[parametro](
 	[descripcion] [varchar](255) NULL,
 	[tipo] [varchar](255) NULL,
 	[valor] [varchar](255) NULL,
+	[estado] [char](1) NULL,
 PRIMARY KEY CLUSTERED 
 (
 	[idparametro] ASC

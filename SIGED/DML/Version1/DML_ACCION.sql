@@ -1,7 +1,7 @@
-
+SET IDENTITY_INSERT accion ON;
 --select * from accion;
 
-insert into accion(nombre,descripcion,estado) values('"archivar"','Archivar','A');
+insert into accion(nombre,descripcion,estado) values('archivar','Archivar','A');
 insert into accion(nombre,descripcion,estado) values('anular','Anular','A');
 insert into accion(nombre,descripcion,estado) values('atender','Atender','A');
 insert into accion(nombre,descripcion,estado) values('responder','Responder','A');
