@@ -1,0 +1,1356 @@
+--select * from RECURSOXPERFIL;
+
+--DELETE FROM RECURSOXPERFIL;
+--COMMIT;
+
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (1, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (2, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (3, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (4, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (5, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (6, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (7, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (8, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (9, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (10, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (11, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (19, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (20, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (22, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (23, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (24, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (25, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (27, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (28, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (29, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (30, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (31, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (32, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (33, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (34, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (78, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (88, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (89, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (172, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (173, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (178, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (179, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (190, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (191, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (201, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (206, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (208, 2);
+
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (210, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (212, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (213, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (214, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (215, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (216, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (224, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (227, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (229, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (19, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (20, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (22, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (23, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (24, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (25, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (27, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (28, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (29, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (30, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (31, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (32, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (33, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (34, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (78, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (88, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (89, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (172, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (173, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (178, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (179, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (190, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (191, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (201, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (77, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (206, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (208, 4);
+
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (210, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (212, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (213, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (214, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (215, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (216, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (224, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (227, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (229, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (79, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (80, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (83, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (84, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (85, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (86, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (87, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (157, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (158, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (159, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (160, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (161, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (162, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (164, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (165, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (168, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (169, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (170, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (171, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (176, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (177, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (184, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (185, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (186, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (187, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (188, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (189, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (192, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (193, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (195, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (196, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (197, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (207, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (225, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (226, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (229, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (19, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (20, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (22, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (23, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (24, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (25, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (28, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (29, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (30, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (31, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (32, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (33, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (34, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (78, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (89, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (172, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (173, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (178, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (179, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (190, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (191, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (201, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (206, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (208, 3);
+
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (210, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (212, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (213, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (214, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (215, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (216, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (224, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (227, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (228, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (230, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (230, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (230, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (231, 1);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (231, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (231, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (231, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (231, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (231, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (19, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (20, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (22, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (23, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (24, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (25, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (27, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (28, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (29, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (30, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (31, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (32, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (33, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (34, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (78, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (88, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (89, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (172, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (173, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (178, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (179, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (190, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (191, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (201, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (206, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (208, 5);
+
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (210, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (212, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (213, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (214, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (215, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (216, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (224, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (227, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (229, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (230, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (19, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (20, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (22, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (23, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (24, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (25, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (27, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (28, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (29, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (30, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (31, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (32, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (33, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (34, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (78, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (88, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (89, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (172, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (173, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (178, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (179, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (190, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (191, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (201, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (206, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (208, 6);
+
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (210, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (212, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (213, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (214, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (215, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (216, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (224, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (227, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (229, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (230, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (242, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (19, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (20, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (22, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (23, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (24, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (25, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (27, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (28, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (29, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (30, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (31, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (32, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (33, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (34, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (78, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (88, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (89, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (172, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (173, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (178, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (179, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (190, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (191, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (201, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (206, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (208, 7);
+
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (210, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (212, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (213, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (214, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (215, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (216, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (224, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (227, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (229, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (230, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (231, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (19, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (20, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (22, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (23, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (24, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (25, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (27, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (28, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (29, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (30, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (31, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (32, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (33, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (34, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (78, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (88, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (89, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (172, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (173, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (178, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (179, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (190, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (191, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (201, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (206, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (208, 8);
+
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (210, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (212, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (213, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (214, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (215, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (216, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (224, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (227, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (229, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (230, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (231, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (232, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (233, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (238, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (88, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (235, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (235, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (235, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (235, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (235, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (235, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (236, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (236, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (236, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (236, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (236, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (236, 8);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (239, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (243, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (244, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (245, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (246, 6);
+
+
+/*
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (209, 2);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (209, 3);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (209, 4);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (209, 5);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (209, 6);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (209, 7);
+Insert into RECURSOXPERFIL
+   (IDRECURSO, IDPERFIL)
+ Values
+   (209, 8);
+*/

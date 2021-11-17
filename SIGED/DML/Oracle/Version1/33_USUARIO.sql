@@ -1,12 +1,12 @@
---SET IDENTITY_INSERT usuario ON;
 --select * from usuario;
 --delete from usuario;
+--commit;
 
 insert into usuario
 ( idusuario, usuario, clave, clave_siged, nombres, apellidos, correo, idrol, estado, 
 idfuncion, idunidad, enviocorreo, usuariofinal, flagdocumentocf, flagviewtrazabilidad) 
-values(1, 'admin', 'admin', 'admin', 'Vidal', 'Cupe','vidal.cupe@sofisisperu.com', 6, 'A',
-8, 2, 'S', 'S', '0', '0');
+values(1, 'admin', 'admin', 'admin', 'Vidal', 'Cupe','vidal.cupe@sofisisperu.com', 3, 'A',
+5, 2, 'S', 'S', '0', '0');
 
 
 --usuarios derivacion
